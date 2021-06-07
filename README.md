@@ -67,4 +67,4 @@ Sign Out Dialog Box:
 
 ![image](https://user-images.githubusercontent.com/82814920/121041687-8c498a00-c7e5-11eb-828a-9afce489d3bf.png)
 
-
+© 2017, Jen Beatrix Maristela (aka jenbeatrix), All rights reserved.
