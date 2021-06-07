@@ -1,4 +1,4 @@
-# Simple-POS-and-Inventory-System-of-an-Egg-Farm
+# Simple_POS_and_Inventory_System_of_an_Egg_Farm
 This project follows a FIFO (First-In-First-Out) method that will help lessen the time-consuming activities and hassle of collecting eggs with different sizes, information of the buyers, number of eggs with defect and number of purchases of an egg company named, Golden Nature Farm. This will be made possible by making a program in which the encoder/user, will be adding in the inventory if there are number of eggs released. The program has a button “Inventory” and when it is clicked, it will show the total number of eggs. Now, if the user wants to add the number of eggs released, he/she will just click, “Add” and then the user will add number of eggs released by piece / by tray (small, large, extra-large etc.). Also, the user can also add if there are new released eggs with defect. 
 
 Last but not the least is the number of purchases and sales. Every time there are costumers that will buy the product, it will be added in the “Total Number of Purchases” with the total number of incomes. The eggs bought will be recorded.
